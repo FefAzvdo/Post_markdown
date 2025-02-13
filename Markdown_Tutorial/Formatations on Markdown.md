@@ -1,4 +1,4 @@
-<!-- markdownlint-disable MD022 -->
+<!-- markdownlint-disable -->
 
 # Markdown Formatting
 
